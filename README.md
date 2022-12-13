@@ -1,2 +1,4 @@
 # sutisna.se
-Linktree-like simple website
+Links on bio for Instagram
+
+Credits: https://github.com/MichaelBarney/LinkFree/tree/master/Templates/DarkMode
